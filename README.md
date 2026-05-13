@@ -1,33 +1,29 @@
-### Housebook ###
+﻿# Housebook
 
-Vamos criar uma rede social usando JavaScript!
+> Aplicacao de listagem de imoveis desenvolvida em HTML, CSS e JavaScript puro, com busca e filtragem de propriedades.
 
-- Faça o fork deste repositório
+## Stack
 
-- Faça o clone do repositório do seu github (substitua seu-usuario)
+- HTML5
+- CSS3
+- JavaScript
 
-````bash
-git clone https://github.com/seu-usuario/housebook.git
-````
+## Prerequisitos
 
-- Crie uma branch com o seu nome, a partir da main
+- Nenhum prerequisito especifico
 
-````bash
-git checkout -b seuNome
-````
+## Como executar
 
-- Quando terminar de trabalhar, faça o "merge" do seu trabalho na sua branch main
+```bash
+# Clone o repositorio
+git clone https://github.com/meirelesdev/housebook.git
+cd housebook
+```
 
-````bash
-git add .
+## Licenca
 
-git comit -m "sua mensagem de commit"
+Este projeto esta sob a licenca MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-git checkout main
+---
 
-# Com o comando abaixo, você vai trazer o histórico de commits e alterações para sua branch atual, que é a main
-git merge seuNome
-
-# Agora, basta subir o código pro github!
-git push
-````
+Desenvolvido por [meirelesdev](https://github.com/meirelesdev/housebook)
